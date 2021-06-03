@@ -54,6 +54,7 @@ digital image
 ### Identifier ARK
 Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/9k3p8086489n
 
-
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Dwight Garrigues Lavender Photo Albums](https://archives.colorado.edu/repositories/2/resources/2303).
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
