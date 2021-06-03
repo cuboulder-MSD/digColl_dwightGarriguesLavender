@@ -44,8 +44,13 @@ Information about restrictions imposed on access to a resource.
 Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+### Image Measurements
+The size of the digitized work or media file.
+
 ### Image Date
 The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2005-2013
+### Image Work Type
+digital image
 ### Identifier ARK
 Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/9k3p8086489n
 
