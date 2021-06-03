@@ -1,92 +1,54 @@
 # Dwight Garrigues Lavender Collection
-This collection contains three photograph albums from the summers of 1928, 1930, and 1931, and includes images of Colorado mountains, first ascents, and new routes. 
-## DOI
-https://doi.org/10.25810/94wb-hw34
+## Description
+This collection contains three photograph albums from the summers of 1928, 1930, and 1931, and includes images of Colorado mountains, first ascents, and new routes.
+
+Permanent address to digital collection: [https://doi.org/10.25810/94wb-hw34](https://doi.org/10.25810/94wb-hw34).<br /> 
+Please use the same link when sharing or citing the collection.
 ## Metadata
 ### File Name
+Contains a unique standard number or code that distinctively identifies a resource. Typically the file name. Example: LAV10012a.tif
+
 ### Collection Name
+Name of the collection: Dwight Garrigues Lavender Collection
+
 ### Collection Description
+Same description provided above.
 ### Work Type
-### Work Type Vocab
-### Work Type Refid
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: photographs 
 ### Work Title
-### Work Title Type
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Work Agent Name
-### Work Agent Name Vocab
-### Work Agent Name Refid
-### Work Agent Name Type
-### Work Agent Role
-### Work Agent Role Vocab
-### Work Agent Role Refid
+Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: Lavender, Dwight G.
 ### Work Date
-### Work Date Type
-### Subject Term 1
-### Subject Type 1
-### Subject Vocab 1
-### Subject Refid 1
-### Subject Term 2
-### Subject Type 2
-### Subject Vocab 2
-### Subject Refid 2
-### Subject Term 3
-### Subject Type 3
-### Subject Vocab 3
-### Subject Refid 3
+The date of creation of the resource. Date ranges include: 1931
+### Subject Term
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Mountaineering--Colorado; Mountains--Colorado; Mountaineers--Colorado
+
 ### Location Name
-### Location Type
-### Location Refid
-### Location Refid Type
+Geographic location(s) relevant to the item. Some coverage terms used in the collection include: Colorado (state); Wilson Peak (peak); Lone Cone (peak)
 ### Repository Location Name
-### Repository Location Type
-### Repository Location Refid
-### Repository Location Refid Type
-### Work Measurements
-### Work measurement
-### Work Measurement Type
-### Work Measurement Unit
+The institution or repository that holds the resource or where it is available: UC Boulder Special Collections Department
 ### Material
-### Material Type
-### Material Vocab
-### Material Refid
+The matter from which a thing is or can be made. Material terms include: photographic paper
 ### Technique
-### Technique Vocab
-### Technique Refid
-### State
-### Edition
+Manner and ability with which a creator employs the technical skills of a particular art or field of endeavor. Technique terms used in this collection include: photography; hand coloring
 ### Inscription Text
-### Inscription Text Type
-### Style Period
-### Style Period Vocab
-### Style Period Refid
-### Cultural Context
-### Cultural Context Vocab
-### Cultural Context Refid
+Captions or words inscribed on or in the book.
 ### Work Description
-### Textref Name
-### Textref Type
-### Textref Refid
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Relation
-### Relation Type
-### Relation Relids
-### Relation href
+Information that identifies other resources related to the one being described.
 ### Image Rights
-### Image Title
-### Image Title Type
-### Image Source
-### Image Source Type
-### Image Source Refid
-### Image Source Refid Type
-### Image Measurements
-### Image Measurements Type
-### Image Measurements Unit
-### Image Agent Name
-### Image Agent Type
-### Image Agent Role
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: This Item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s). URI: http://rightsstatements.org/vocab/InC/1.0/
+
+Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ### Image Date
-### Image Date Type
-### Image Work Type
-### Image Work Type Vocab
-### Image Work Type Refid
+The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2005-2013
+### Identifier ARK
+Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/47540/9k3p8086489n
+
 
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
