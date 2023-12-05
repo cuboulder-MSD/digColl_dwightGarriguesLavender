@@ -57,8 +57,8 @@ Controlled, stable link to the resource. Example: https://ark.colorado.edu/ark:/
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Dwight Garrigues Lavender Photo Albums](https://archives.colorado.edu/repositories/2/resources/2303).
 
-Mount Blue Sky Resources:
-[https://www.wilderness.org/sites/default/files/media/file/Letter-Petition%20to%20Rename%20Mount%20Evans.pdf) 
-[https://www.denverpost.com/2023/09/15/colorado-mount-evans-mount-blue-sky-name-change-approval/) 
+Mount Blue Sky Resources: <br /> 
+https://www.wilderness.org/sites/default/files/media/file/Letter-Petition%20to%20Rename%20Mount%20Evans.pdf 
+https://www.denverpost.com/2023/09/15/colorado-mount-evans-mount-blue-sky-name-change-approval/
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
